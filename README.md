@@ -1,27 +1,26 @@
-## Hi, I'm Gabriel Magno
+## 👋 Gabriel (Biel)
 
-🎓 Estudante de Sistemas de Informação (UFF)  
-💻 Dev Full Stack
-🏫 Professor de HTML e CSS  
-🌊 Estagiário no Parque Tecnológico do Mar
+🎓 Information Systems student (UFF)  
+💻 Full Stack Developer  
+🏫 HTML & CSS Instructor  
+🌊 Intern at the Parque Tecnológico do Mar
 
 ---
 
 ## 🛠️ Stack
 
 - Next.js, HTML, CSS, JavaScript  
-- Backend, autenticação, ORMs  
-- Bancos de dados relacionais  
-- Git, GitHub e CI/CD  
-- Python para automações
+- Backend, authentication, ORMs  
+- Relational databases  
+- Git, GitHub & CI/CD  
+- Python for automation
 
 ---
 
-## 🎯 Foco atual
+## 🎯 Current focus
 
-Construção de aplicações web bem estruturadas, escaláveis e com boas práticas.
+Building well-structured, scalable web applications with solid best practices.
 
 ---
 
 🔗 [LinkedIn](https://www.linkedin.com/)
-
