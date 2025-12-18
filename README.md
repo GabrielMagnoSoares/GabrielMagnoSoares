@@ -1,4 +1,4 @@
-## 👋 Gabriel (Biel)
+## Hi, I'm Gabriel Magno
 
 🎓 Information Systems student (UFF)  
 💻 Full Stack Developer  
