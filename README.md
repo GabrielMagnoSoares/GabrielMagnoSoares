@@ -1,8 +1,7 @@
 ## Hi, I'm Gabriel Magno
 
 🎓 Estudante de Sistemas de Informação (UFF)  
-💻 Dev Full Stack 
-
+💻 Dev Full Stack
 🏫 Professor de HTML e CSS  
 🌊 Estagiário no Parque Tecnológico do Mar
 
